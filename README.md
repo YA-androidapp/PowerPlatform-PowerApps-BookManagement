@@ -22,10 +22,10 @@ Power Apps で実装した蔵書管理アプリ
 
 <br>
 
-バーコードスキャナーで読み取った ISBN コードをもとに、 [openBD プロジェクト](https://openbd.jp/) から書誌情報を取得します。
+バーコードスキャナーで読み取った ISBN コードをもとに、 [openBD プロジェクト](https://openbd.jp/) または [国会図書館サーチ](https://iss.ndl.go.jp/) から書誌情報を取得します。
 
 <br><br>
 
 ---
 
-Copyright (c) 2021 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+Copyright (c) 2022 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
